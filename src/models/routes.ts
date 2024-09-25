@@ -31,6 +31,17 @@ map.addEdge(Places.shuttleMainGate, Places.envScience, 30);
 map.addEdge(Places.envScience, Places.sportsComplex,21);
 
 map.addEdge(Places.mosque, Places.sportsComplex, 50);
+map.addEdge(Places.mosque, Places.newHall, 15);
+map.addEdge(Places.secondGate, Places.firstB, 30);
+
+map.addEdge(Places.mosque, Places.accessB, 10);
+map.addEdge(Places.secondGate, Places.dli, 50);
+map.addEdge(Places.dli, Places.fss,60)
+
+map.addEdge(Places.nithub, Places.fss,5)
+map.addEdge(Places.dli, Places.fss,60)
+map.addEdge(Places.mosque, Places.accessFilingStation, 10);
+map.addEdge(Places.accessB,Places.accessFilingStation,5)
 
 
 //print the graph

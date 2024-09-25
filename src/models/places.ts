@@ -19,7 +19,9 @@ export const senate= new Place("Senate Building", 40.7150, -74.0090, "The univer
 export const jeliliHall = new Place("Jelili AdeBisi",40.7140, -74.0029, 'Jelili AdebisiHall is used to host evennts and such');
 export const mosque = new Place("Unilag Mosque", 40.7140, -74.0080, "Mosque");
 export const envScience = new Place("Faculty of EnvironmentalnScience", 40.7140, -74.0080, "The university");
+export const nithub = new Place("NITDA IT HUB (NITHUB)", 40.7140, -74.0080, "The tecch innovation and creation hub");
 
+export const accessFilingStation= new Place("Access Filing station", 40.7140, -74.0080, "The university");
 
 
 
